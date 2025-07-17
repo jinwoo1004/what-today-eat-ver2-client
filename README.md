@@ -53,3 +53,6 @@
 </div>
 
 <br/>
+
+### UI - Main
+<img src="https://raw.githubusercontent.com/jinwoo1004/what-today-eat-ver2-client/master/public/app-main.png" width="600" />
