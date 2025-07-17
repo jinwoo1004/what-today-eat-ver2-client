@@ -53,13 +53,3 @@
 </div>
 
 <br/>
-
-## 📜 프로젝트 아키텍쳐
-![MMZ Architecture](https://user-images.githubusercontent.com/59650985/194707399-8693271d-016b-4b7e-b0c8-6030fbf85d64.png)
-
-<br/>
-
-## ☺️ 사용자 흐름도
-<img width="5431" alt="user flow1" src="https://user-images.githubusercontent.com/59650985/194708235-cbe2296e-ae53-4fa4-97d9-f614852b1d18.png">
-
-<br/>
