@@ -72,7 +72,7 @@
 <br/>
 
 ## 🛠️ 프로젝트 기술 스택
-### Frontend (what-today-eat-ver2-client)
+### 🌠 Frontend (what-today-eat-ver2-client)
 <div width="80%" align="center">
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2F74C0.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
  <img alt="React" src="https://img.shields.io/badge/React-2A2C2E.svg?&style=for-the-badge&logo=React&logoColor=61DBFB"/>
@@ -86,7 +86,7 @@
 
 <br/>
 
-### Backend (what-today-eat-ver2-server)
+### 🌠 Backend (what-today-eat-ver2-server)
 <div width="80%" align="center">
  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -97,7 +97,7 @@
 
 <br/>
 
-### Infra
+### 👌 Infra
 <div width="80%" align="center">
  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elastic search-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
  <img alt="Logstash" src="https://img.shields.io/badge/Logstash-005571.svg?&style=for-the-badge&logo=Logstash&logoColor=white"/>
@@ -109,12 +109,12 @@
 
 <br/>
 
-### Info
+### 👨‍🔧 Info
 - APP 내 저장 이미지 경로 /client/src/public/assets/
 
 <br/>
 
-### UI - Main
+### 🤔 UI - Main
 <img src="https://raw.githubusercontent.com/jinwoo1004/what-today-eat-ver2-client/master/public/app-main.png" width="300" />
 
 <br/>
