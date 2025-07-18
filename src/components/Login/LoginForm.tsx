@@ -5,13 +5,13 @@ import { useNavigate } from "react-router-dom";
 import { userLogin, userSession } from "../../redux/slices/userSlice";
 import { useAppSelector, useAppDispatch } from "../../hooks/dispatchHook";
 import SNSLogin from "../../components/Login/SNSLogin";
-import loginlogo from "../../assets/icons/loginlogo.svg";
+import loginlogo from "../../assets/icons/logoKorean.svg";
 import { useEffect } from "react";
 
 const SLoginLayout = styled.div`
   width: 430px;
   padding: 50px 60px;
-  background-color: #f2f1ea;
+  background-color: #ececeaff;
   @media ${({ theme }) => theme.device.tablet} {
     width: 320px;
     padding: 30px 20px;
@@ -32,14 +32,14 @@ const SForm = styled.form`
 
 const SLoginLogo = styled.div`
   position: absolute;
-  top: -93px;
+  top: -290px;
   @media ${({ theme }) => theme.device.tablet} {
     width: 180px;
-    top: -65px;
+    top: -167px;
   }
   @media ${({ theme }) => theme.device.mobile} {
     width: 160px;
-    top: -58px;
+    top: -151px;
   }
 `;
 
