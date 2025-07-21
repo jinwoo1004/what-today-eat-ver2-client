@@ -7,6 +7,13 @@
 <br/>
 
 
+### 🚀 App Start
+App에서 회원 가입 후 로그인
+
+| 화면 |
+| --- |
+| <img src="https://github.com/jinwoo1004/what-today-eat-ver2-client/raw/master/public/app-start.gif" width="300"  alt="앱 시작"> |
+
 ## 📑 프로젝트 소개
 > 젊은 1인 가구가 늘어난 요즘, 항상 뭐 먹을지 고민하는 우리..
 >
