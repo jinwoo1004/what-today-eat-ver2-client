@@ -28,9 +28,9 @@ const SLoginWrapper = styled.div`
 
 const SLoginLayout = styled.div`
   flex: 1;
-  max-width: 600px;
+  max-width: 420px;
   background-color: #fff;
-  padding: 3rem 2rem;
+  padding: 2rem 1.5rem;
   border-radius: 10px;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
   display: flex;
